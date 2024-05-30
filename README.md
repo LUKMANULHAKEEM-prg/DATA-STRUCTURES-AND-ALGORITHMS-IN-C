@@ -1,10 +1,6 @@
 # DATA-STRUCTURES-AND-ALGORITHMS-IN-C
 This repository contains beginner-friendly implementations of fundamental data structures and algorithms in C. It aims to provide clear, well-documented examples to help new programmers understand and practice these essential concepts.
 
-# Beginner-Friendly Data Structures and Algorithms in C
-
-Welcome to the Beginner-Friendly Data Structures and Algorithms repository in C! This repository is designed to provide beginners with a structured and accessible introduction to fundamental data structures and algorithms using the C programming language.
-
 ## About
 
 This repository aims to:
