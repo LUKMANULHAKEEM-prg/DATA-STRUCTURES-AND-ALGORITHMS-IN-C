@@ -20,7 +20,7 @@ This repository aims to:
 1. **Clone the Repository**: Clone this repository to your local machine using:
 
     ```
-    git clone https://github.com/your-username/data-structures-and-algorithms-c.git
+    git clone https://github.com/LUKMANULHAKEEM-prg/data-structures-and-algorithms-c.git
     ```
 
 2. **Explore**: Dive into the directories to explore different data structures and algorithms. Each directory contains its own README file with explanations and usage examples.
@@ -35,14 +35,3 @@ Each data structure and algorithm is implemented in C and accompanied by detaile
 
 Contributions are encouraged and appreciated. If you find any bugs, want to add more examples, or have suggestions for improvement, please open an issue or submit a pull request. For guidelines on contributing, please refer to the CONTRIBUTING.md file.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to all contributors who have helped make this repository better.
-
----
-
-Feel free to customize this template according to your preferences or add more sections as needed. Happy coding!
